@@ -1,0 +1,10 @@
+.my-button {
+    border: 1px solid black;
+    min-width: 128px;
+    height: 56px;
+    border-radius: 8px;
+}
+
+.avatar {
+    border-radius: 50%;
+}
